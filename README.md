@@ -7,9 +7,8 @@ This project addresses a major problem in the ever-growing technological industr
 are victims to such problems, and the scammers are making a living out of it, a report from global anti scam alliance states that over $1.03 trillion
 was stolen by scammers in 2024 alone , scamming has been a major issue globally in countries like India there are thousands of separate companies operating illegally just for the sake of scamming and the one's who are doing these are living luxury out of stolen money that a person saved or worked for years
 
-This program allows the user to check and report a scam number additionally it gives out general information about a scam number like why is it dangerous and recommends actions for the user, it uses a MOCKAPI to store and retrieve data. this program at its most this is just a prototype soon there will be a GUI to make the process easier and many other feature like email checking , improved suggestions etc will be added soon and everything will be updated in the project's github repository
+This program allows the user to check and report a scam number additionally it gives out general information about a scam number like why is it dangerous and recommends actions for the user, it uses a MOCKAPI to store and retrieve data.
 
-Currently the program offers only a four common category option for reporting a new number, a new system will be implemented shortly that has a better way to categorize the scams
 
 ## Features
 
